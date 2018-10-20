@@ -1,0 +1,37 @@
+learn
+
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn.main(learn.java:13)
+
+Learn2
+java.text.ParseException: Unparseable date: "09-12"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:395)
+	at learn2.main(learn2.java:13)
